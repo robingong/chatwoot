@@ -1,3 +1,6 @@
+一个开源的客户支持软件，最开始作为一个商业软件不成功，17年倒闭了，后来19年作者将其开源，没想到一下子成了热门项目，目前保持着活跃的更新。后端是Ruby，前端是Vue。
+
+
 <p align="center">
   <img src="https://s3.us-west-2.amazonaws.com/gh-assets.chatwoot.com/brand.svg" alt="Woot-logo" width="240" />
 
